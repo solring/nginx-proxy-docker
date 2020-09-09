@@ -1,6 +1,6 @@
-# Docker file for a Simple Nginx server
+# Docker file for a simple Nginx server
 
-I use Nginx to manage and reroute my different websites.
-Tried to utilize Docker to eliminate difficulties when migrating sites.
+An attempt to utilize Nginx to manage and reroute my different websites with Docker to eliminate difficulties when migrating sites.
+
 Still WIP.
 
